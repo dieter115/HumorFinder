@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
                 RestClient.getApiService(getApplicationContext()).getRandomJoke(jokeCallback);
             }
         });
+        int getal=2;
 
     }
 
